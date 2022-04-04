@@ -51,5 +51,6 @@ export class FooComponent {
       this.data = data;
       this.loading = false;
     });
-}  
+}
+  
 }
